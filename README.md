@@ -17,4 +17,5 @@ Block leak trafic if vpn down
 ```
 <b>Note</b>
 
-You must have vpn connection first. Then apply killswitchenable.sh
+Change VPN ip address on 6 line in killswitchenable.sh
+Then apply killswitchenable.sh
