@@ -3,9 +3,9 @@ Block leak trafic if vpn down
 
 <b>Installation</b>
 ```
-1. sudo apt update; sudo apt install ufw
-2. git clone https://github.com/mixaxdd/Vpn-killswitch-for-linux
-3. cd Vpn-killswitch-for-linux && chmod +x killswitchdisable.sh killswitchenable.sh
+sudo apt update; sudo apt install ufw
+git clone https://github.com/mikedigriz/Vpn-killswitch-for-linux
+cd Vpn-killswitch-for-linux && chmod +x killswitchdisable.sh killswitchenable.sh
 ```
 <b>Run</b>
 ```
